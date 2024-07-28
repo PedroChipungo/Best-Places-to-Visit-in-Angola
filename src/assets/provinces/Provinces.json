@@ -1,0 +1,131 @@
+{
+    "provinces": [
+        {
+            "id": "bengo",
+            "name": "Bengo",
+            "description": "O Bengo é uma das 18 províncias de Angola, localizada na região centro-norte do país, sendo adjacente à província de Luanda. Sua capital está na cidade de Caxito, no município de Dande.Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 429.322 habitantes e com uma área de 31 371 km², sendo a província menos povoada de Angola.[1]Compõe-se de seis municípios: Ambriz, Bula Atumba, Dande, Dembos, Nambuangongo e Pango Aluquém",
+           "read_more": "https://pt.wikipedia.org/wiki/Bengo",
+            "img_url": "https://welcometoangola.co.ao/wp-content/uploads/2021/01/MUXIMA-1.jpg#main"
+        },
+        {
+            "id": "benguela",
+            "name": "Benguela",
+            "description": "Benguela é uma das 18 províncias de Angola, localizada na região central do país. Tem como capital a cidade e município de Benguela.Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 2.477.595 habitantes e uma área de 39.827 km², sendo a província mais populosa da faixa central da nação.[1][2][3]A província é constituída pelos seguintes municípios: Baía Farta, Balombo, Benguela, Bocoio, Caimbambo, Catumbela, Chongoroi, Cubal, Ganda e Lobito.",
+           "read_more": "https://pt.wikipedia.org/wiki/Benguela_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Praia_de_Benguela_%28cropped%29.jpg"
+        },
+        {
+            "id": "bie",
+            "name": "Bié",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "cabinda",
+            "name": "Cabinda",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "cuandoCubango",
+            "name": "Cuando Cubango",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "cuanzaNorte",
+            "name": "Cuanza Norte",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "cuanzaSul",
+            "name": "Cuanza Sul",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "cunene",
+            "name": "Cunene",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "huambo",
+            "name": "Huambo",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "huila",
+            "name": "Huíla",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "luanda",
+            "name": "Luanda",
+            "description": "Luanda é uma das 18 províncias de Angola, localizada na região centro-norte do país. Tem como capital a cidade e município de Luanda, a capital nacional.Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 7 976 907 habitantes e área territorial de 18 826 km², sendo a província mais populosa e densamente povoada de Angola.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Luanda_Skyline_-_Angola_2015_%28cropped%29.jpg/800px-Luanda_Skyline_-_Angola_2015_%28cropped%29.jpg"
+        },
+        {
+            "id": "lundaNorte",
+            "name": "Lunda Norte",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "lundaSul",
+            "name": "Lunda Sul",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "malange",
+            "name": "Malange",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "moxico",
+            "name": "Moxico",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "namibe",
+            "name": "Namibe",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "uige",
+            "name": "Uíge",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        },
+        {
+            "id": "zaire",
+            "name": "Zaire",
+            "description": "Malanje (por vezes erroneamente grafada como Malange) é uma das 18 províncias de Angola, localizada na região norte do país. Sua capital está na cidade e município de Malanje. Segundo as projeções populacionais de 2018, elaboradas pelo Instituto Nacional de Estatística, conta com uma população de 1 108 264 habitantes e área territorial de 98 320 km².[1]É constituída por 14 municípios: Cacuso, Caombo, Calandula, Cambundi-Catembo, Cangandala, Cuaba Nzoji, Cunda-Dia-Baze, Luquembo, Malanje, Marimba, Massango, Mucari, Quela e Quirima.",
+           "read_more": "https://pt.wikipedia.org/wiki/Malanje_(prov%C3%ADncia)",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Malanje_centro_2011-08_IMG1321.jpg/1280px-Malanje_centro_2011-08_IMG1321.jpg"
+        }
+    ]
+
+}
